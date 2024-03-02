@@ -8,4 +8,3 @@ var_dump("Hola mundo");
 
 //  otro script de php
 include 'includes/footer.php';
-
